@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "modid": "marximusmedievalmap",
+  "name": "MarximusMedievalMap",
+  "authors": [
+    "MarximusMaximus",
+    "Rangelost"
+  ],
+  "description": "Simplifies world map drawing; customizable.",
+  "version": "1.5.0",
+  "side": "Client",
+  "dependencies": {
+    "game": "1.20.1"
+  }
+}
