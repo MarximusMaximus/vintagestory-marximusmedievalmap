@@ -34,11 +34,15 @@ Upon running the mod, a `medievalmap.json` config file will be created or update
 - `generic_grid_opacity`: opacity of the grid (between 0 and 1).
 - `ocean_grid_opacity`: opacity of the grid over oceans (between 0 and 1).
 - `ocean_textured`: true to enable ocean texture, otherwise false.
-
- 
  
 ## Changes I'd like to make:
 
 - configurable via config lib GUI
 - ability to customize what blocks are in a category
 - ability to customize categories (e.g. add new categories and set colors for each)
+
+-----
+
+Website: https://marximus.com
+
+Twitch: https://twitch.tv/marximusmaximus
